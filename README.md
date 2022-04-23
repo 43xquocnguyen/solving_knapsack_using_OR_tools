@@ -1,4 +1,4 @@
-# solving_knapsack_using_google-OR-tools
+# Solving the Knapsack Problems Using Google OR Tools
 Solving the Knapsack Problems using Google OR Tools
 
 I have implemented for solving Knapsack Problem - Assignment 2 / UIT.CS106
